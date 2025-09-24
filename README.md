@@ -24,7 +24,7 @@
 - **Program Management**: Create and view multiple fitness programs with only the latest one active
 - **Responsive Design**: Beautiful UI that works across all devices
 
-## Setup .env file
+## Setup .env.local file
 
 ```js
 # Clerk Authentication
